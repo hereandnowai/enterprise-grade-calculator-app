@@ -159,3 +159,5 @@ cython_debug/
 
 # MacOS
 .DS_Store
+
+social-media-content/

@@ -1,50 +1,70 @@
-# Enterprise Grade Calculator App
+<div align="center">
 
-A production-ready Flask application for performing calculations with a separate business logic layer and a modern web frontend.
+![HERE AND NOW AI](https://raw.githubusercontent.com/hereandnowai/images/refs/heads/main/logos/logo-of-here-and-now-ai.png)
 
-## 🚀 Features
-- **Flask Backend:** RESTful API to handle calculations.
-- **Separated Logic:** Calculation engine isolated in the `logic/` module.
-- **Modern Frontend:** Vanilla JavaScript, CSS3, and HTML5.
-- **Production Ready:** Configured for WSGI using Gunicorn.
+# Enterprise-Grade Calculator App - Full-Stack Architecture by HERE AND NOW AI
 
-## 🛠️ Tech Stack
-- **Languages:** Python 3.x, JavaScript, HTML, CSS.
-- **Frameworks/Libraries:** Flask, Gunicorn.
+### *"AI is Good"*
 
-## 📁 Project Structure
-- `backend/`: Flask application and business logic.
-- `frontend/`: HTML, CSS, and JS files.
-- `FLOWCHART.html`: System architecture and logic flow.
-- `TEACHING_GUIDE.md`: Educational material for understanding the codebase.
+Enterprise-grade calculator application with full-stack architecture built and maintained by HERE AND NOW AI.
 
-## 🏁 Getting Started
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Organization](https://img.shields.io/badge/HERE%20AND%20NOW%20AI-hereandnowai-004040)](https://github.com/hereandnowai)
+
+</div>
+
+---
+
+## About
+
+This project is developed and maintained by **HERE AND NOW AI**. Enterprise-grade calculator application with full-stack architecture built and maintained by HERE AND NOW AI.
+
+Built for learners, developers, and teams who want to leverage JavaScript, full-stack web in real-world scenarios. All materials are crafted with a hands-on, practical approach to ensure maximum learning and productivity.
+
+## Features
+
+- Enterprise-grade full-stack architecture\n- Clean UI with robust backend logic\n- Extensible and maintainable codebase\n- Ready for enterprise deployment
+
+## Getting Started
 
 ### Prerequisites
-- Python 3.8+
-- [Optional] Virtual environment (venv)
+
+- See project files for specific requirements
+- Git
 
 ### Installation
-1. Clone the repository.
-2. Install dependencies:
-   ```bash
-   pip install -r backend/requirements.txt
-   ```
 
-### Running the Application
-
-#### Development Mode
-To run with the built-in Flask development server:
 ```bash
-python backend/app.py
+git clone https://github.com/hereandnowai/enterprise-grade-calculator-app.git
+cd enterprise-grade-calculator-app
 ```
 
-#### Production Mode (WSGI)
-To run with Gunicorn:
-```bash
-cd backend
-gunicorn app:app
-```
+## Usage
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Explore the project folders and follow the instructions in each subdirectory. Refer to inline comments and documentation for guidance.
+
+---
+
+## Connect with HERE AND NOW AI
+
+| | |
+|---|---|
+| 🌐 **Website** | [hereandnowai.com](https://hereandnowai.com) |
+| 📧 **Email** | [info@hereandnowai.com](mailto:info@hereandnowai.com) |
+| 📞 **Phone** | +91 996 296 1000 |
+| 💼 **LinkedIn** | [linkedin.com/company/hereandnowai](https://www.linkedin.com/company/hereandnowai/) |
+| 🐦 **X / Twitter** | [x.com/hereandnow_ai](https://x.com/hereandnow_ai) |
+| 📸 **Instagram** | [instagram.com/hereandnow_ai](https://instagram.com/hereandnow_ai) |
+| ▶️ **YouTube** | [youtube.com/@hereandnow_ai](https://youtube.com/@hereandnow_ai) |
+| 🐙 **GitHub** | [github.com/hereandnowai](https://github.com/hereandnowai) |
+| 📝 **Blog** | [hereandnowai.com/blog](https://hereandnowai.com/blog) |
+
+---
+
+<div align="center">
+
+**HERE AND NOW AI** — *AI is Good*
+
+© 2025 HERE AND NOW AI. All rights reserved.
+
+</div>
